@@ -12,3 +12,4 @@ Questions as per day are as follows:
 | 6       | Count all valid pickup and delivery options       | https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/       | DP (Combinatorics)                     | Hard           |
 | 7       | Merge two sorted lists     | https://leetcode.com/problems/merge-two-sorted-lists/       | Linked Lists                   | Easy           |
 | 8       | Linked List Cycle    | https://leetcode.com/problems/linked-list-cycle/      | Linked Lists (Two Pointer)                | Easy           |
+| 9       | Remove Duplicates from Sorted List II    | https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/      | Linked Lists (Two Pointer)                | Medium           |
