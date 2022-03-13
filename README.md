@@ -16,3 +16,4 @@ Questions as per day are as follows:
 | 10       | Add Two Numbers    | https://leetcode.com/problems/add-two-numbers      | Linked Lists (Math)                | Medium           |
 | 11 | Rotate List | https://leetcode.com/problems/rotate-list/      | Linked Lists | Medium |
 | 12 | Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer/      | Linked Lists | Medium |
+| 13 | Valid Parantheses | https://leetcode.com/problems/valid-parentheses/ | Stacks | Medium |
