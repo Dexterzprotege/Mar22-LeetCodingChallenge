@@ -17,3 +17,4 @@ Questions as per day are as follows:
 | 11 | Rotate List | https://leetcode.com/problems/rotate-list/      | Linked Lists | Medium |
 | 12 | Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer/      | Linked Lists | Medium |
 | 13 | Valid Parantheses | https://leetcode.com/problems/valid-parentheses/ | Stacks | Medium |
+| 13 | Minimum Remove to Make Valid Parentheses | https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/ | Stacks | Medium |
