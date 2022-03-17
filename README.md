@@ -20,3 +20,4 @@ Questions as per day are as follows:
 | 14 | Simplify Path | https://leetcode.com/problems/simplify-path/ | Stacks | Medium |
 | 15 | Minimum Remove to Make Valid Parentheses | https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/ | Stacks | Medium |
 | 16 | Validate Stack Sequences | https://leetcode.com/problems/validate-stack-sequences/ | Stacks | Medium |
+| 17 | Score of Parantheses | https://leetcode.com/problems/score-of-parentheses/submissions/ | Stacks | Medium |
